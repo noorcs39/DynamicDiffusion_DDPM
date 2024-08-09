@@ -12,7 +12,8 @@ This project, developed by **Nooruddin Noonari**, focuses on implementing a Diff
 ### Initial Results
 The initial results of the model are shown below, representing the generated images after training. The results indicate a good starting point, with potential for further improvements.
 
-![Initial Results](./path_to_your_image_directory/image.png)
+![image](https://github.com/user-attachments/assets/1b8d7b96-2f66-4df8-9294-df335e6a89fd)
+
 
 ## Model Architecture
 
