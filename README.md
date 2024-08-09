@@ -51,3 +51,10 @@ The initial results of the model are shown below, representing the generated ima
 To train the model:
 ```bash
 python initial_ddpm.py
+
+@misc{noonari2024dynamicdiffusion,
+  author = {Nooruddin Noonari},
+  title = {Dynamic Diffusion: Implementing DDPM with Custom Beta Schedules},
+  year = {2023},
+  howpublished = {\url{https://github.com/noorcs39/DynamicDiffusion_DDPM}},
+}
